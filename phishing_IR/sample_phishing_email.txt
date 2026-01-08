@@ -1,0 +1,14 @@
+From: IT Support <it-support@fakecompany.com>
+To: employee@company.com
+Subject: Urgent Password Reset Required
+
+Dear User,
+
+Your account has been compromised. Please reset your password immediately by clicking the link below:
+
+http://fake-reset-login.com/verify
+
+Failure to do so will result in account suspension.
+
+Regards,
+IT Support Team
